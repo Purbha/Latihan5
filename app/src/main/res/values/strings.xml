@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Latihan5</string>
+    <string name="textView_Main_Judul">Dibuat Oleh</string>
+    <string name="textView_Main_Nama">Almaira Hasna Salsabila</string>
+    <string name="textView_Main_Umur">Umur 4 Tahun</string>
+    <string name="button_Main_Submit">Panggil Activity Dua</string>
+    <string name="textView_Dua_Judul">Ini adalah activity 2</string>
+</resources>
