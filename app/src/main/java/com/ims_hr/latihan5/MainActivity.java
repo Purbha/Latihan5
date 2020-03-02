@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void Inisial() {
-        B_Submit = (Button) findViewById(R.id.button_Main_Submit);
+        B_Submit = findViewById(R.id.button_Main_Submit);
     }
 
     private void Listen_B_Submit() {
